@@ -5,16 +5,22 @@ Reinstall Mac Mini 2012
 2. Bis make disk Mac Encrypted 
 
 3. Reinstall OS Mountain, Install SmcFanControl for mac, very important, if not, mac does not work
-4. Download OS Capitan by link web, use doanload manager, if not nerver success because the speed is too slow
-, Install Capitan
+4. Download OS Capitan by link web, use doanload manager, if not nerver success because the speed is too slow.
+   link : https://www.mediafire.com/file/dvl6cudh48x08sc/InstallMacOSX.dmg/file
+   Install Capitan
 5. Download, Install OS High Siera
 6. Download, Install OS Catalina
 
 7. Download software windows driver by "Boot Camp Assistant" before partition disk
- if this step failed, search bootcamp version 6.0 by website
+ 
+   if this step failed, search bootcamp version 6.0 by website
+   link : https://github.com/trungphap/WinDrivers
+
 
 8. Create a recovery partion, make a recovery by TimeMachine
 9. Download an windows 10 iso, make a USB windows Install by "Boot Camp Assistant"
+
+   link : https://www.mediafire.com/folder/9l1ph7pd8jb18/BOOTCAMP
 10. Make a windows partition by Disk Utility
 11. restart Mac, press button option, choose boot windows.
 
