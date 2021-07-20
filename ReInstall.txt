@@ -1,0 +1,37 @@
+Reinstall Mac Mini 2012
+
+1. Never touch a mac partion by windows
+2. Never Install a mac OS by USB
+2. Bis make disk Mac Encrypted 
+
+3. Reinstall OS Mountain, Install SmcFanControl for mac, very important, if not, mac does not work
+4. Download OS Capitan by link web, use doanload manager, if not nerver success because the speed is too slow
+, Install Capitan
+5. Download, Install OS High Siera
+6. Download, Install OS Catalina
+
+7. Download software windows driver by "Boot Camp Assistant" before partition disk
+ if this step failed, search bootcamp version 6.0 by website
+
+8. Create a recovery partion, make a recovery by TimeMachine
+9. Download an windows 10 iso, make a USB windows Install by "Boot Camp Assistant"
+10. Make a windows partition by Disk Utility
+11. restart Mac, press button option, choose boot windows.
+
+12. Install Windows, 
+13. Search for SmcFanControl for mac run in windows, install it
+14. Install windows drivers from files downloaded from step 7
+
+
+__________________
+Git
+
+echo "# ReInstallMacMini2012" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/trungphap/ReInstallMacMini2012.git
+git push -u origin main
+
+ 
