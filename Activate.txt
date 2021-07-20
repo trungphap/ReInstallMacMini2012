@@ -1,0 +1,7 @@
+source : https://msguides.com/microsoft-software-products/2-ways-activate-windows-10-free-without-software.html
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+slmgr /skms s8.now.im   (this server can be changed)
+
+slmgr /ato
